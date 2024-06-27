@@ -1,9 +1,8 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
 import Home from '../screens/home/Home'
-import About from '../screens/About/About'
+import About from '../screens/about/About'
 import Contact from '../screens/contact/Contact'
-import Button from '../components/button'
 
 
 
